@@ -7,3 +7,6 @@ Instalar componentes do backend e frontend (npm i)
 Backend na porta 5000
 Frontend na porta 3000
 ```
+
+![Projeto MySQL](https://github.com/Trevisolli/movies-controll/blob/main/01-Tela.PNG?raw=true "Projeto DIO MySQL")
+
